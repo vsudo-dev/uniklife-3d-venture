@@ -1,0 +1,8668 @@
+{
+  "name": "Sphoorthy Green Nest",
+  "code": "SPHOORTHY-LAYOUT-DEMO",
+  "source_file": "sphoorthy-green-nest-layout-plan.pdf",
+  "sha256": "d49f18146d1284aee9043187c6cb62f22986473818a74697297b344d602bf699",
+  "image_width": 2224,
+  "image_height": 3168,
+  "declared_plots": 279,
+  "declared_plotted_area_sq_yards": 51696.04,
+  "printed_plot_area_sum_sq_yards": 51752,
+  "method": "local OCR plus visual review of printed plot labels and standard dimension annotations",
+  "geometry": "Approximate image-traced overlays for navigation; not survey/CAD boundaries.",
+  "plots": [
+    {
+      "plot_number": "1",
+      "area_sq_yards": 355,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          540
+        ],
+        [
+          326,
+          540
+        ],
+        [
+          326,
+          630
+        ],
+        [
+          232,
+          630
+        ]
+      ],
+      "north_ft": 57,
+      "south_ft": 59,
+      "east_ft": 55.083333333333336,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "2",
+      "area_sq_yards": 219,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          630
+        ],
+        [
+          326,
+          630
+        ],
+        [
+          326,
+          680
+        ],
+        [
+          232,
+          680
+        ]
+      ],
+      "north_ft": 59,
+      "south_ft": 60.25,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "3",
+      "area_sq_yards": 223,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          680
+        ],
+        [
+          326,
+          680
+        ],
+        [
+          326,
+          730
+        ],
+        [
+          232,
+          730
+        ]
+      ],
+      "north_ft": 60.25,
+      "south_ft": 61.5,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "4",
+      "area_sq_yards": 228,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          730
+        ],
+        [
+          326,
+          730
+        ],
+        [
+          326,
+          780
+        ],
+        [
+          232,
+          780
+        ]
+      ],
+      "north_ft": 61.5,
+      "south_ft": 62.75,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "5",
+      "area_sq_yards": 232,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          780
+        ],
+        [
+          326,
+          780
+        ],
+        [
+          326,
+          830
+        ],
+        [
+          232,
+          830
+        ]
+      ],
+      "north_ft": 62.75,
+      "south_ft": 64,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "6",
+      "area_sq_yards": 237,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          830
+        ],
+        [
+          326,
+          830
+        ],
+        [
+          326,
+          880
+        ],
+        [
+          232,
+          880
+        ]
+      ],
+      "north_ft": 64,
+      "south_ft": 65.33333333333333,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "7",
+      "area_sq_yards": 242,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          880
+        ],
+        [
+          326,
+          880
+        ],
+        [
+          326,
+          930
+        ],
+        [
+          232,
+          930
+        ]
+      ],
+      "north_ft": 65.33333333333333,
+      "south_ft": 66.58333333333333,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "8",
+      "area_sq_yards": 246,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          930
+        ],
+        [
+          326,
+          930
+        ],
+        [
+          326,
+          980
+        ],
+        [
+          232,
+          980
+        ]
+      ],
+      "north_ft": 66.58333333333333,
+      "south_ft": 67.83333333333333,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "9",
+      "area_sq_yards": 251,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          980
+        ],
+        [
+          326,
+          980
+        ],
+        [
+          326,
+          1030
+        ],
+        [
+          232,
+          1030
+        ]
+      ],
+      "north_ft": 67.83333333333333,
+      "south_ft": 69.08333333333333,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "10",
+      "area_sq_yards": 255,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          1030
+        ],
+        [
+          326,
+          1030
+        ],
+        [
+          326,
+          1080
+        ],
+        [
+          232,
+          1080
+        ]
+      ],
+      "north_ft": 69.08333333333333,
+      "south_ft": 70.25,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "11",
+      "area_sq_yards": 263,
+      "facing": "E",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          232,
+          1080
+        ],
+        [
+          326,
+          1080
+        ],
+        [
+          326,
+          1134
+        ],
+        [
+          232,
+          1134
+        ]
+      ],
+      "north_ft": 70.25,
+      "south_ft": 73.25,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "12",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          1029
+        ],
+        [
+          432,
+          1029
+        ],
+        [
+          432,
+          1134
+        ],
+        [
+          378,
+          1134
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "13",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          979
+        ],
+        [
+          432,
+          979
+        ],
+        [
+          432,
+          1029
+        ],
+        [
+          378,
+          1029
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "14",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          929
+        ],
+        [
+          432,
+          929
+        ],
+        [
+          432,
+          979
+        ],
+        [
+          378,
+          979
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "15",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          879
+        ],
+        [
+          432,
+          879
+        ],
+        [
+          432,
+          929
+        ],
+        [
+          378,
+          929
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "16",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          829
+        ],
+        [
+          432,
+          829
+        ],
+        [
+          432,
+          879
+        ],
+        [
+          378,
+          879
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "17",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          779
+        ],
+        [
+          432,
+          779
+        ],
+        [
+          432,
+          829
+        ],
+        [
+          378,
+          829
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "18",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          729
+        ],
+        [
+          432,
+          729
+        ],
+        [
+          432,
+          779
+        ],
+        [
+          378,
+          779
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "19",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          679
+        ],
+        [
+          432,
+          679
+        ],
+        [
+          432,
+          729
+        ],
+        [
+          378,
+          729
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "20",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          629
+        ],
+        [
+          432,
+          629
+        ],
+        [
+          432,
+          679
+        ],
+        [
+          378,
+          679
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "21",
+      "area_sq_yards": 256,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          378,
+          526
+        ],
+        [
+          432,
+          526
+        ],
+        [
+          432,
+          629
+        ],
+        [
+          378,
+          629
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "22",
+      "area_sq_yards": 275,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          519
+        ],
+        [
+          488,
+          519
+        ],
+        [
+          488,
+          629
+        ],
+        [
+          432,
+          629
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "23",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          629
+        ],
+        [
+          488,
+          629
+        ],
+        [
+          488,
+          679
+        ],
+        [
+          432,
+          679
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "24",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          679
+        ],
+        [
+          488,
+          679
+        ],
+        [
+          488,
+          729
+        ],
+        [
+          432,
+          729
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "25",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          729
+        ],
+        [
+          488,
+          729
+        ],
+        [
+          488,
+          779
+        ],
+        [
+          432,
+          779
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "26",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          779
+        ],
+        [
+          488,
+          779
+        ],
+        [
+          488,
+          829
+        ],
+        [
+          432,
+          829
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "27",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          829
+        ],
+        [
+          488,
+          829
+        ],
+        [
+          488,
+          879
+        ],
+        [
+          432,
+          879
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "28",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          879
+        ],
+        [
+          488,
+          879
+        ],
+        [
+          488,
+          929
+        ],
+        [
+          432,
+          929
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "29",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          929
+        ],
+        [
+          488,
+          929
+        ],
+        [
+          488,
+          979
+        ],
+        [
+          432,
+          979
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "30",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          979
+        ],
+        [
+          488,
+          979
+        ],
+        [
+          488,
+          1029
+        ],
+        [
+          432,
+          1029
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "31",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          432,
+          1029
+        ],
+        [
+          488,
+          1029
+        ],
+        [
+          488,
+          1134
+        ],
+        [
+          432,
+          1134
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "32",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          1021
+        ],
+        [
+          590,
+          1021
+        ],
+        [
+          590,
+          1134
+        ],
+        [
+          534,
+          1134
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "33",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          971
+        ],
+        [
+          590,
+          971
+        ],
+        [
+          590,
+          1021
+        ],
+        [
+          534,
+          1021
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "34",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          921
+        ],
+        [
+          590,
+          921
+        ],
+        [
+          590,
+          971
+        ],
+        [
+          534,
+          971
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "35",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          871
+        ],
+        [
+          590,
+          871
+        ],
+        [
+          590,
+          921
+        ],
+        [
+          534,
+          921
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "36",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          821
+        ],
+        [
+          590,
+          821
+        ],
+        [
+          590,
+          871
+        ],
+        [
+          534,
+          871
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "37",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          771
+        ],
+        [
+          590,
+          771
+        ],
+        [
+          590,
+          821
+        ],
+        [
+          534,
+          821
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "38",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          721
+        ],
+        [
+          590,
+          721
+        ],
+        [
+          590,
+          771
+        ],
+        [
+          534,
+          771
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "39",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          671
+        ],
+        [
+          590,
+          671
+        ],
+        [
+          590,
+          721
+        ],
+        [
+          534,
+          721
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "40",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          621
+        ],
+        [
+          590,
+          621
+        ],
+        [
+          590,
+          671
+        ],
+        [
+          534,
+          671
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "41",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          571
+        ],
+        [
+          590,
+          571
+        ],
+        [
+          590,
+          621
+        ],
+        [
+          534,
+          621
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "42",
+      "area_sq_yards": 163,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          534,
+          504
+        ],
+        [
+          590,
+          504
+        ],
+        [
+          590,
+          571
+        ],
+        [
+          534,
+          571
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "43",
+      "area_sq_yards": 183,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          496
+        ],
+        [
+          646,
+          496
+        ],
+        [
+          646,
+          571
+        ],
+        [
+          590,
+          571
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "44",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          571
+        ],
+        [
+          646,
+          571
+        ],
+        [
+          646,
+          621
+        ],
+        [
+          590,
+          621
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "45",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          621
+        ],
+        [
+          646,
+          621
+        ],
+        [
+          646,
+          671
+        ],
+        [
+          590,
+          671
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "46",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          671
+        ],
+        [
+          646,
+          671
+        ],
+        [
+          646,
+          721
+        ],
+        [
+          590,
+          721
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "47",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          721
+        ],
+        [
+          646,
+          721
+        ],
+        [
+          646,
+          771
+        ],
+        [
+          590,
+          771
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "48",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          771
+        ],
+        [
+          646,
+          771
+        ],
+        [
+          646,
+          821
+        ],
+        [
+          590,
+          821
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "49",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          821
+        ],
+        [
+          646,
+          821
+        ],
+        [
+          646,
+          871
+        ],
+        [
+          590,
+          871
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "50",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          871
+        ],
+        [
+          646,
+          871
+        ],
+        [
+          646,
+          921
+        ],
+        [
+          590,
+          921
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "51",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          921
+        ],
+        [
+          646,
+          921
+        ],
+        [
+          646,
+          971
+        ],
+        [
+          590,
+          971
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "52",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          971
+        ],
+        [
+          646,
+          971
+        ],
+        [
+          646,
+          1021
+        ],
+        [
+          590,
+          1021
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "53",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          590,
+          1021
+        ],
+        [
+          646,
+          1021
+        ],
+        [
+          646,
+          1134
+        ],
+        [
+          590,
+          1134
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "54",
+      "area_sq_yards": 445,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          480
+        ],
+        [
+          800.0,
+          480
+        ],
+        [
+          787.31,
+          574
+        ],
+        [
+          697,
+          574
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": 73.25,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "55",
+      "area_sq_yards": 260,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          574
+        ],
+        [
+          787.31,
+          574
+        ],
+        [
+          780.425,
+          625
+        ],
+        [
+          697,
+          625
+        ]
+      ],
+      "north_ft": 73.25,
+      "south_ft": 68.5,
+      "east_ft": null,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "56",
+      "area_sq_yards": 242,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          625
+        ],
+        [
+          780.425,
+          625
+        ],
+        [
+          773.54,
+          676
+        ],
+        [
+          697,
+          676
+        ]
+      ],
+      "north_ft": 68.5,
+      "south_ft": 63.666666666666664,
+      "east_ft": null,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "57",
+      "area_sq_yards": 224,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          676
+        ],
+        [
+          773.54,
+          676
+        ],
+        [
+          766.655,
+          727
+        ],
+        [
+          697,
+          727
+        ]
+      ],
+      "north_ft": 63.666666666666664,
+      "south_ft": 58.75,
+      "east_ft": null,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "58",
+      "area_sq_yards": 206,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          727
+        ],
+        [
+          766.655,
+          727
+        ],
+        [
+          759.77,
+          778
+        ],
+        [
+          697,
+          778
+        ]
+      ],
+      "north_ft": 58.75,
+      "south_ft": 53.833333333333336,
+      "east_ft": null,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "59",
+      "area_sq_yards": 188,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          778
+        ],
+        [
+          759.77,
+          778
+        ],
+        [
+          752.885,
+          829
+        ],
+        [
+          697,
+          829
+        ]
+      ],
+      "north_ft": 53.833333333333336,
+      "south_ft": 48.916666666666664,
+      "east_ft": null,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "60",
+      "area_sq_yards": 170,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          829
+        ],
+        [
+          752.885,
+          829
+        ],
+        [
+          746.0,
+          880
+        ],
+        [
+          697,
+          880
+        ]
+      ],
+      "north_ft": 48.916666666666664,
+      "south_ft": 44,
+      "east_ft": null,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "61",
+      "area_sq_yards": 152,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          880
+        ],
+        [
+          746.0,
+          880
+        ],
+        [
+          739.115,
+          931
+        ],
+        [
+          697,
+          931
+        ]
+      ],
+      "north_ft": 44,
+      "south_ft": 38.416666666666664,
+      "east_ft": null,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "62",
+      "area_sq_yards": 437,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          693,
+          931
+        ],
+        [
+          739.115,
+          931
+        ],
+        [
+          711.71,
+          1134
+        ],
+        [
+          697,
+          1134
+        ]
+      ],
+      "north_ft": 38.416666666666664,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "63",
+      "area_sq_yards": 194,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          646,
+          1174
+        ],
+        [
+          705,
+          1174
+        ],
+        [
+          705,
+          1234
+        ],
+        [
+          646,
+          1234
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "64",
+      "area_sq_yards": 178,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          591,
+          1174
+        ],
+        [
+          646,
+          1174
+        ],
+        [
+          646,
+          1234
+        ],
+        [
+          591,
+          1234
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 40,
+      "west_ft": 40,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "65",
+      "area_sq_yards": 178,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          536,
+          1174
+        ],
+        [
+          591,
+          1174
+        ],
+        [
+          591,
+          1234
+        ],
+        [
+          536,
+          1234
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 40,
+      "west_ft": 40,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "66",
+      "area_sq_yards": 147,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          489,
+          1174
+        ],
+        [
+          536,
+          1174
+        ],
+        [
+          536,
+          1234
+        ],
+        [
+          489,
+          1234
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "67",
+      "area_sq_yards": 147,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1174
+        ],
+        [
+          489,
+          1174
+        ],
+        [
+          489,
+          1234
+        ],
+        [
+          443,
+          1234
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "68",
+      "area_sq_yards": 205,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          380,
+          1174
+        ],
+        [
+          443,
+          1174
+        ],
+        [
+          443,
+          1234
+        ],
+        [
+          380,
+          1234
+        ]
+      ],
+      "north_ft": 46,
+      "south_ft": 46,
+      "east_ft": 40,
+      "west_ft": 40,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "69",
+      "area_sq_yards": 205,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          380,
+          1234
+        ],
+        [
+          443,
+          1234
+        ],
+        [
+          443,
+          1297
+        ],
+        [
+          380,
+          1297
+        ]
+      ],
+      "north_ft": 46,
+      "south_ft": 46,
+      "east_ft": 40,
+      "west_ft": 40,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "70",
+      "area_sq_yards": 147,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1234
+        ],
+        [
+          489,
+          1234
+        ],
+        [
+          489,
+          1297
+        ],
+        [
+          443,
+          1297
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "71",
+      "area_sq_yards": 147,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          489,
+          1234
+        ],
+        [
+          536,
+          1234
+        ],
+        [
+          536,
+          1297
+        ],
+        [
+          489,
+          1297
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "72",
+      "area_sq_yards": 178,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          536,
+          1234
+        ],
+        [
+          591,
+          1234
+        ],
+        [
+          591,
+          1297
+        ],
+        [
+          536,
+          1297
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 40,
+      "west_ft": 40,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "73",
+      "area_sq_yards": 178,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          591,
+          1234
+        ],
+        [
+          646,
+          1234
+        ],
+        [
+          646,
+          1297
+        ],
+        [
+          591,
+          1297
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 40,
+      "west_ft": 40,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "74",
+      "area_sq_yards": 164,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          646,
+          1234
+        ],
+        [
+          705,
+          1234
+        ],
+        [
+          705,
+          1297
+        ],
+        [
+          646,
+          1297
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "75",
+      "area_sq_yards": 231,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1340
+        ],
+        [
+          443,
+          1340
+        ],
+        [
+          443,
+          1420
+        ],
+        [
+          385,
+          1420
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 52,
+      "west_ft": 52,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "76",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1420
+        ],
+        [
+          443,
+          1420
+        ],
+        [
+          443,
+          1470
+        ],
+        [
+          385,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "77",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1470
+        ],
+        [
+          443,
+          1470
+        ],
+        [
+          443,
+          1520
+        ],
+        [
+          385,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "78",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1520
+        ],
+        [
+          443,
+          1520
+        ],
+        [
+          443,
+          1570
+        ],
+        [
+          385,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "79",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1570
+        ],
+        [
+          443,
+          1570
+        ],
+        [
+          443,
+          1620
+        ],
+        [
+          385,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "80",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1620
+        ],
+        [
+          443,
+          1620
+        ],
+        [
+          443,
+          1670
+        ],
+        [
+          385,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "81",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1670
+        ],
+        [
+          443,
+          1670
+        ],
+        [
+          443,
+          1720
+        ],
+        [
+          385,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "82",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 40,
+      "polygon_px": [
+        [
+          385,
+          1720
+        ],
+        [
+          443,
+          1720
+        ],
+        [
+          443,
+          1770
+        ],
+        [
+          385,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "83",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          385,
+          1770
+        ],
+        [
+          495,
+          1770
+        ],
+        [
+          495,
+          1818
+        ],
+        [
+          385,
+          1818
+        ]
+      ],
+      "north_ft": 80,
+      "south_ft": 80,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "84",
+      "area_sq_yards": 255,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          385,
+          1818
+        ],
+        [
+          495,
+          1818
+        ],
+        [
+          495,
+          1866
+        ],
+        [
+          411,
+          1866
+        ]
+      ],
+      "north_ft": 80,
+      "south_ft": 47.833333333333336,
+      "east_ft": 33,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "85",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1720
+        ],
+        [
+          495,
+          1720
+        ],
+        [
+          495,
+          1770
+        ],
+        [
+          443,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "86",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1670
+        ],
+        [
+          495,
+          1670
+        ],
+        [
+          495,
+          1720
+        ],
+        [
+          443,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "87",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1620
+        ],
+        [
+          495,
+          1620
+        ],
+        [
+          495,
+          1670
+        ],
+        [
+          443,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "88",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1570
+        ],
+        [
+          495,
+          1570
+        ],
+        [
+          495,
+          1620
+        ],
+        [
+          443,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "89",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1520
+        ],
+        [
+          495,
+          1520
+        ],
+        [
+          495,
+          1570
+        ],
+        [
+          443,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "90",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1470
+        ],
+        [
+          495,
+          1470
+        ],
+        [
+          495,
+          1520
+        ],
+        [
+          443,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "91",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1420
+        ],
+        [
+          495,
+          1420
+        ],
+        [
+          495,
+          1470
+        ],
+        [
+          443,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "92",
+      "area_sq_yards": 231,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          443,
+          1340
+        ],
+        [
+          495,
+          1340
+        ],
+        [
+          495,
+          1420
+        ],
+        [
+          443,
+          1420
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 52,
+      "west_ft": 52,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "93",
+      "area_sq_yards": 231,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1340
+        ],
+        [
+          601,
+          1340
+        ],
+        [
+          601,
+          1420
+        ],
+        [
+          546,
+          1420
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 52,
+      "west_ft": 52,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "94",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1420
+        ],
+        [
+          601,
+          1420
+        ],
+        [
+          601,
+          1470
+        ],
+        [
+          546,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "95",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1470
+        ],
+        [
+          601,
+          1470
+        ],
+        [
+          601,
+          1520
+        ],
+        [
+          546,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "96",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1520
+        ],
+        [
+          601,
+          1520
+        ],
+        [
+          601,
+          1570
+        ],
+        [
+          546,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "97",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1570
+        ],
+        [
+          601,
+          1570
+        ],
+        [
+          601,
+          1620
+        ],
+        [
+          546,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "98",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1620
+        ],
+        [
+          601,
+          1620
+        ],
+        [
+          601,
+          1670
+        ],
+        [
+          546,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "99",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1670
+        ],
+        [
+          601,
+          1670
+        ],
+        [
+          601,
+          1720
+        ],
+        [
+          546,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "100",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1720
+        ],
+        [
+          601,
+          1720
+        ],
+        [
+          601,
+          1770
+        ],
+        [
+          546,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "101",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          546,
+          1770
+        ],
+        [
+          601,
+          1770
+        ],
+        [
+          601,
+          1866
+        ],
+        [
+          546,
+          1866
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "102",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1770
+        ],
+        [
+          655,
+          1770
+        ],
+        [
+          655,
+          1866
+        ],
+        [
+          601,
+          1866
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "103",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1720
+        ],
+        [
+          655,
+          1720
+        ],
+        [
+          655,
+          1770
+        ],
+        [
+          601,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "104",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1670
+        ],
+        [
+          655,
+          1670
+        ],
+        [
+          655,
+          1720
+        ],
+        [
+          601,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "105",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1620
+        ],
+        [
+          655,
+          1620
+        ],
+        [
+          655,
+          1670
+        ],
+        [
+          601,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "106",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1570
+        ],
+        [
+          655,
+          1570
+        ],
+        [
+          655,
+          1620
+        ],
+        [
+          601,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "107",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1520
+        ],
+        [
+          655,
+          1520
+        ],
+        [
+          655,
+          1570
+        ],
+        [
+          601,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "108",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1470
+        ],
+        [
+          655,
+          1470
+        ],
+        [
+          655,
+          1520
+        ],
+        [
+          601,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "109",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1420
+        ],
+        [
+          655,
+          1420
+        ],
+        [
+          655,
+          1470
+        ],
+        [
+          601,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "110",
+      "area_sq_yards": 231,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          601,
+          1340
+        ],
+        [
+          655,
+          1340
+        ],
+        [
+          655,
+          1420
+        ],
+        [
+          601,
+          1420
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 52,
+      "west_ft": 52,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "111",
+      "area_sq_yards": 218,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1344
+        ],
+        [
+          755,
+          1344
+        ],
+        [
+          755,
+          1420
+        ],
+        [
+          700,
+          1420
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "112",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1420
+        ],
+        [
+          755,
+          1420
+        ],
+        [
+          755,
+          1470
+        ],
+        [
+          700,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "113",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1470
+        ],
+        [
+          755,
+          1470
+        ],
+        [
+          755,
+          1520
+        ],
+        [
+          700,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "114",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1520
+        ],
+        [
+          755,
+          1520
+        ],
+        [
+          755,
+          1570
+        ],
+        [
+          700,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "115",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1570
+        ],
+        [
+          755,
+          1570
+        ],
+        [
+          755,
+          1620
+        ],
+        [
+          700,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "116",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1620
+        ],
+        [
+          755,
+          1620
+        ],
+        [
+          755,
+          1670
+        ],
+        [
+          700,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "117",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1670
+        ],
+        [
+          755,
+          1670
+        ],
+        [
+          755,
+          1720
+        ],
+        [
+          700,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "118",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1720
+        ],
+        [
+          755,
+          1720
+        ],
+        [
+          755,
+          1770
+        ],
+        [
+          700,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "119",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1770
+        ],
+        [
+          755,
+          1770
+        ],
+        [
+          755,
+          1866
+        ],
+        [
+          700,
+          1866
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "120",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1770
+        ],
+        [
+          811,
+          1770
+        ],
+        [
+          811,
+          1866
+        ],
+        [
+          755,
+          1866
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "121",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1720
+        ],
+        [
+          811,
+          1720
+        ],
+        [
+          811,
+          1770
+        ],
+        [
+          755,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "122",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1670
+        ],
+        [
+          811,
+          1670
+        ],
+        [
+          811,
+          1720
+        ],
+        [
+          755,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "123",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1620
+        ],
+        [
+          811,
+          1620
+        ],
+        [
+          811,
+          1670
+        ],
+        [
+          755,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "124",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1570
+        ],
+        [
+          811,
+          1570
+        ],
+        [
+          811,
+          1620
+        ],
+        [
+          755,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "125",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1520
+        ],
+        [
+          811,
+          1520
+        ],
+        [
+          811,
+          1570
+        ],
+        [
+          755,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "126",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1470
+        ],
+        [
+          811,
+          1470
+        ],
+        [
+          811,
+          1520
+        ],
+        [
+          755,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "127",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1420
+        ],
+        [
+          811,
+          1420
+        ],
+        [
+          811,
+          1470
+        ],
+        [
+          755,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "128",
+      "area_sq_yards": 205,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1344
+        ],
+        [
+          811,
+          1344
+        ],
+        [
+          811,
+          1420
+        ],
+        [
+          755,
+          1420
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "129",
+      "area_sq_yards": 179,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1360
+        ],
+        [
+          910,
+          1360
+        ],
+        [
+          910,
+          1420
+        ],
+        [
+          855,
+          1420
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "130",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1420
+        ],
+        [
+          910,
+          1420
+        ],
+        [
+          910,
+          1470
+        ],
+        [
+          855,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "131",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1470
+        ],
+        [
+          910,
+          1470
+        ],
+        [
+          910,
+          1520
+        ],
+        [
+          855,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "132",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1520
+        ],
+        [
+          910,
+          1520
+        ],
+        [
+          910,
+          1570
+        ],
+        [
+          855,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "133",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1570
+        ],
+        [
+          910,
+          1570
+        ],
+        [
+          910,
+          1620
+        ],
+        [
+          855,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "134",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1620
+        ],
+        [
+          910,
+          1620
+        ],
+        [
+          910,
+          1670
+        ],
+        [
+          855,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "135",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1670
+        ],
+        [
+          910,
+          1670
+        ],
+        [
+          910,
+          1720
+        ],
+        [
+          855,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "136",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1720
+        ],
+        [
+          910,
+          1720
+        ],
+        [
+          910,
+          1770
+        ],
+        [
+          855,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "137",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          855,
+          1770
+        ],
+        [
+          910,
+          1770
+        ],
+        [
+          910,
+          1866
+        ],
+        [
+          855,
+          1866
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "138",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1770
+        ],
+        [
+          966,
+          1770
+        ],
+        [
+          966,
+          1866
+        ],
+        [
+          910,
+          1866
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "139",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1720
+        ],
+        [
+          966,
+          1720
+        ],
+        [
+          966,
+          1770
+        ],
+        [
+          910,
+          1770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "140",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1670
+        ],
+        [
+          966,
+          1670
+        ],
+        [
+          966,
+          1720
+        ],
+        [
+          910,
+          1720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "141",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1620
+        ],
+        [
+          966,
+          1620
+        ],
+        [
+          966,
+          1670
+        ],
+        [
+          910,
+          1670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "142",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1570
+        ],
+        [
+          966,
+          1570
+        ],
+        [
+          966,
+          1620
+        ],
+        [
+          910,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "143",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1520
+        ],
+        [
+          966,
+          1520
+        ],
+        [
+          966,
+          1570
+        ],
+        [
+          910,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "144",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1470
+        ],
+        [
+          966,
+          1470
+        ],
+        [
+          966,
+          1520
+        ],
+        [
+          910,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "145",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1420
+        ],
+        [
+          966,
+          1420
+        ],
+        [
+          966,
+          1470
+        ],
+        [
+          910,
+          1470
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "146",
+      "area_sq_yards": 162,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          1360
+        ],
+        [
+          966,
+          1360
+        ],
+        [
+          966,
+          1420
+        ],
+        [
+          910,
+          1420
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "147",
+      "area_sq_yards": 264,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1011,
+          1390
+        ],
+        [
+          1065,
+          1390
+        ],
+        [
+          1065,
+          1470
+        ],
+        [
+          1011,
+          1470
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "148",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1011,
+          1470
+        ],
+        [
+          1065,
+          1470
+        ],
+        [
+          1065,
+          1520
+        ],
+        [
+          1011,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "149",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1011,
+          1520
+        ],
+        [
+          1065,
+          1520
+        ],
+        [
+          1065,
+          1570
+        ],
+        [
+          1011,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "150",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1011,
+          1570
+        ],
+        [
+          1065,
+          1570
+        ],
+        [
+          1065,
+          1620
+        ],
+        [
+          1011,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "151",
+      "area_sq_yards": 222,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1011,
+          1620
+        ],
+        [
+          1065,
+          1620
+        ],
+        [
+          1065,
+          1699
+        ],
+        [
+          1011,
+          1699
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "152",
+      "area_sq_yards": 222,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          1620
+        ],
+        [
+          1120,
+          1620
+        ],
+        [
+          1120,
+          1699
+        ],
+        [
+          1065,
+          1699
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "153",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          1570
+        ],
+        [
+          1120,
+          1570
+        ],
+        [
+          1120,
+          1620
+        ],
+        [
+          1065,
+          1620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "154",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          1520
+        ],
+        [
+          1120,
+          1520
+        ],
+        [
+          1120,
+          1570
+        ],
+        [
+          1065,
+          1570
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "155",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          1470
+        ],
+        [
+          1120,
+          1470
+        ],
+        [
+          1120,
+          1520
+        ],
+        [
+          1065,
+          1520
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "156",
+      "area_sq_yards": 237,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          1400
+        ],
+        [
+          1120,
+          1400
+        ],
+        [
+          1120,
+          1470
+        ],
+        [
+          1065,
+          1470
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "157",
+      "area_sq_yards": 153,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          1734
+        ],
+        [
+          1370,
+          1734
+        ],
+        [
+          1370,
+          1798
+        ],
+        [
+          1320,
+          1798
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "158",
+      "area_sq_yards": 150,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1275,
+          1734
+        ],
+        [
+          1320,
+          1734
+        ],
+        [
+          1320,
+          1798
+        ],
+        [
+          1275,
+          1798
+        ]
+      ],
+      "north_ft": 33,
+      "south_ft": 33,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "159",
+      "area_sq_yards": 173,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1223,
+          1734
+        ],
+        [
+          1275,
+          1734
+        ],
+        [
+          1275,
+          1798
+        ],
+        [
+          1223,
+          1798
+        ]
+      ],
+      "north_ft": 38,
+      "south_ft": 38,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "160",
+      "area_sq_yards": 182,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1168,
+          1734
+        ],
+        [
+          1223,
+          1734
+        ],
+        [
+          1223,
+          1798
+        ],
+        [
+          1168,
+          1798
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "161",
+      "area_sq_yards": 150,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1120,
+          1734
+        ],
+        [
+          1168,
+          1734
+        ],
+        [
+          1168,
+          1798
+        ],
+        [
+          1120,
+          1798
+        ]
+      ],
+      "north_ft": 33,
+      "south_ft": 33,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "162",
+      "area_sq_yards": 150,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1075,
+          1734
+        ],
+        [
+          1120,
+          1734
+        ],
+        [
+          1120,
+          1798
+        ],
+        [
+          1075,
+          1798
+        ]
+      ],
+      "north_ft": 33,
+      "south_ft": 33,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "163",
+      "area_sq_yards": 214,
+      "facing": "N",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1011,
+          1734
+        ],
+        [
+          1075,
+          1734
+        ],
+        [
+          1075,
+          1798
+        ],
+        [
+          1011,
+          1798
+        ]
+      ],
+      "north_ft": 47,
+      "south_ft": 47,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "164",
+      "area_sq_yards": 214,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1011,
+          1798
+        ],
+        [
+          1075,
+          1798
+        ],
+        [
+          1075,
+          1866
+        ],
+        [
+          1011,
+          1866
+        ]
+      ],
+      "north_ft": 47,
+      "south_ft": 47,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "165",
+      "area_sq_yards": 150,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1075,
+          1798
+        ],
+        [
+          1120,
+          1798
+        ],
+        [
+          1120,
+          1866
+        ],
+        [
+          1075,
+          1866
+        ]
+      ],
+      "north_ft": 33,
+      "south_ft": 33,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "166",
+      "area_sq_yards": 150,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1120,
+          1798
+        ],
+        [
+          1168,
+          1798
+        ],
+        [
+          1168,
+          1866
+        ],
+        [
+          1120,
+          1866
+        ]
+      ],
+      "north_ft": 33,
+      "south_ft": 33,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "167",
+      "area_sq_yards": 182,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1168,
+          1798
+        ],
+        [
+          1223,
+          1798
+        ],
+        [
+          1223,
+          1866
+        ],
+        [
+          1168,
+          1866
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "168",
+      "area_sq_yards": 173,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1223,
+          1798
+        ],
+        [
+          1275,
+          1798
+        ],
+        [
+          1275,
+          1866
+        ],
+        [
+          1223,
+          1866
+        ]
+      ],
+      "north_ft": 38,
+      "south_ft": 38,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "169",
+      "area_sq_yards": 150,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1275,
+          1798
+        ],
+        [
+          1320,
+          1798
+        ],
+        [
+          1320,
+          1866
+        ],
+        [
+          1275,
+          1866
+        ]
+      ],
+      "north_ft": 33,
+      "south_ft": 33,
+      "east_ft": 41,
+      "west_ft": 41,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "170",
+      "area_sq_yards": 157,
+      "facing": "S",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          1798
+        ],
+        [
+          1370,
+          1798
+        ],
+        [
+          1370,
+          1866
+        ],
+        [
+          1320,
+          1866
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "171",
+      "area_sq_yards": 226,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          1908
+        ],
+        [
+          1374,
+          1908
+        ],
+        [
+          1374,
+          2004
+        ],
+        [
+          1320,
+          2004
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "172",
+      "area_sq_yards": 162,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2004
+        ],
+        [
+          1374,
+          2004
+        ],
+        [
+          1374,
+          2054
+        ],
+        [
+          1320,
+          2054
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "173",
+      "area_sq_yards": 164,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2054
+        ],
+        [
+          1374,
+          2054
+        ],
+        [
+          1374,
+          2114
+        ],
+        [
+          1320,
+          2114
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "174",
+      "area_sq_yards": 168,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2114
+        ],
+        [
+          1374,
+          2114
+        ],
+        [
+          1374,
+          2174
+        ],
+        [
+          1320,
+          2174
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "175",
+      "area_sq_yards": 174,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2174
+        ],
+        [
+          1374,
+          2174
+        ],
+        [
+          1374,
+          2240
+        ],
+        [
+          1320,
+          2240
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "176",
+      "area_sq_yards": 179,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2240
+        ],
+        [
+          1374,
+          2240
+        ],
+        [
+          1374,
+          2309
+        ],
+        [
+          1320,
+          2309
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "177",
+      "area_sq_yards": 184,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2309
+        ],
+        [
+          1374,
+          2309
+        ],
+        [
+          1374,
+          2374
+        ],
+        [
+          1320,
+          2374
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "178",
+      "area_sq_yards": 312,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2374
+        ],
+        [
+          1374,
+          2374
+        ],
+        [
+          1374,
+          2468
+        ],
+        [
+          1320,
+          2468
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "179",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2363
+        ],
+        [
+          1275,
+          2363
+        ],
+        [
+          1275,
+          2468
+        ],
+        [
+          1220,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "180",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2313
+        ],
+        [
+          1275,
+          2313
+        ],
+        [
+          1275,
+          2363
+        ],
+        [
+          1220,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "181",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2263
+        ],
+        [
+          1275,
+          2263
+        ],
+        [
+          1275,
+          2313
+        ],
+        [
+          1220,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "182",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2213
+        ],
+        [
+          1275,
+          2213
+        ],
+        [
+          1275,
+          2263
+        ],
+        [
+          1220,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "183",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2163
+        ],
+        [
+          1275,
+          2163
+        ],
+        [
+          1275,
+          2213
+        ],
+        [
+          1220,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "184",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2113
+        ],
+        [
+          1275,
+          2113
+        ],
+        [
+          1275,
+          2163
+        ],
+        [
+          1220,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "185",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2063
+        ],
+        [
+          1275,
+          2063
+        ],
+        [
+          1275,
+          2113
+        ],
+        [
+          1220,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "186",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2013
+        ],
+        [
+          1275,
+          2013
+        ],
+        [
+          1275,
+          2063
+        ],
+        [
+          1220,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "187",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          1908
+        ],
+        [
+          1275,
+          1908
+        ],
+        [
+          1275,
+          2013
+        ],
+        [
+          1220,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "188",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          1908
+        ],
+        [
+          1220,
+          1908
+        ],
+        [
+          1220,
+          2013
+        ],
+        [
+          1165,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "189",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2013
+        ],
+        [
+          1220,
+          2013
+        ],
+        [
+          1220,
+          2063
+        ],
+        [
+          1165,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "190",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2063
+        ],
+        [
+          1220,
+          2063
+        ],
+        [
+          1220,
+          2113
+        ],
+        [
+          1165,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "191",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2113
+        ],
+        [
+          1220,
+          2113
+        ],
+        [
+          1220,
+          2163
+        ],
+        [
+          1165,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "192",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2163
+        ],
+        [
+          1220,
+          2163
+        ],
+        [
+          1220,
+          2213
+        ],
+        [
+          1165,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "193",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2213
+        ],
+        [
+          1220,
+          2213
+        ],
+        [
+          1220,
+          2263
+        ],
+        [
+          1165,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "194",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2263
+        ],
+        [
+          1220,
+          2263
+        ],
+        [
+          1220,
+          2313
+        ],
+        [
+          1165,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "195",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2313
+        ],
+        [
+          1220,
+          2313
+        ],
+        [
+          1220,
+          2363
+        ],
+        [
+          1165,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "196",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2363
+        ],
+        [
+          1220,
+          2363
+        ],
+        [
+          1220,
+          2468
+        ],
+        [
+          1165,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "197",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2363
+        ],
+        [
+          1120,
+          2363
+        ],
+        [
+          1120,
+          2468
+        ],
+        [
+          1065,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "198",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2313
+        ],
+        [
+          1120,
+          2313
+        ],
+        [
+          1120,
+          2363
+        ],
+        [
+          1065,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "199",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2263
+        ],
+        [
+          1120,
+          2263
+        ],
+        [
+          1120,
+          2313
+        ],
+        [
+          1065,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "200",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2213
+        ],
+        [
+          1120,
+          2213
+        ],
+        [
+          1120,
+          2263
+        ],
+        [
+          1065,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "201",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2163
+        ],
+        [
+          1120,
+          2163
+        ],
+        [
+          1120,
+          2213
+        ],
+        [
+          1065,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "202",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2113
+        ],
+        [
+          1120,
+          2113
+        ],
+        [
+          1120,
+          2163
+        ],
+        [
+          1065,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "203",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2063
+        ],
+        [
+          1120,
+          2063
+        ],
+        [
+          1120,
+          2113
+        ],
+        [
+          1065,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "204",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2013
+        ],
+        [
+          1120,
+          2013
+        ],
+        [
+          1120,
+          2063
+        ],
+        [
+          1065,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "205",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          1908
+        ],
+        [
+          1120,
+          1908
+        ],
+        [
+          1120,
+          2013
+        ],
+        [
+          1065,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "206",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          1908
+        ],
+        [
+          1065,
+          1908
+        ],
+        [
+          1065,
+          2013
+        ],
+        [
+          1010,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "207",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2013
+        ],
+        [
+          1065,
+          2013
+        ],
+        [
+          1065,
+          2063
+        ],
+        [
+          1010,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "208",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2063
+        ],
+        [
+          1065,
+          2063
+        ],
+        [
+          1065,
+          2113
+        ],
+        [
+          1010,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "209",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2113
+        ],
+        [
+          1065,
+          2113
+        ],
+        [
+          1065,
+          2163
+        ],
+        [
+          1010,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "210",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2163
+        ],
+        [
+          1065,
+          2163
+        ],
+        [
+          1065,
+          2213
+        ],
+        [
+          1010,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "211",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2213
+        ],
+        [
+          1065,
+          2213
+        ],
+        [
+          1065,
+          2263
+        ],
+        [
+          1010,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "212",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2263
+        ],
+        [
+          1065,
+          2263
+        ],
+        [
+          1065,
+          2313
+        ],
+        [
+          1010,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "213",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2313
+        ],
+        [
+          1065,
+          2313
+        ],
+        [
+          1065,
+          2363
+        ],
+        [
+          1010,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "214",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2363
+        ],
+        [
+          1065,
+          2363
+        ],
+        [
+          1065,
+          2468
+        ],
+        [
+          1010,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "215",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2363
+        ],
+        [
+          965,
+          2363
+        ],
+        [
+          965,
+          2468
+        ],
+        [
+          911,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "216",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2313
+        ],
+        [
+          965,
+          2313
+        ],
+        [
+          965,
+          2363
+        ],
+        [
+          911,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "217",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2263
+        ],
+        [
+          965,
+          2263
+        ],
+        [
+          965,
+          2313
+        ],
+        [
+          911,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "218",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2213
+        ],
+        [
+          965,
+          2213
+        ],
+        [
+          965,
+          2263
+        ],
+        [
+          911,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "219",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2163
+        ],
+        [
+          965,
+          2163
+        ],
+        [
+          965,
+          2213
+        ],
+        [
+          911,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "220",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2113
+        ],
+        [
+          965,
+          2113
+        ],
+        [
+          965,
+          2163
+        ],
+        [
+          911,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "221",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2063
+        ],
+        [
+          965,
+          2063
+        ],
+        [
+          965,
+          2113
+        ],
+        [
+          911,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "222",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          2013
+        ],
+        [
+          965,
+          2013
+        ],
+        [
+          965,
+          2063
+        ],
+        [
+          911,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "223",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          911,
+          1908
+        ],
+        [
+          965,
+          1908
+        ],
+        [
+          965,
+          2013
+        ],
+        [
+          911,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "224",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          1908
+        ],
+        [
+          911,
+          1908
+        ],
+        [
+          911,
+          2013
+        ],
+        [
+          856,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "225",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2013
+        ],
+        [
+          911,
+          2013
+        ],
+        [
+          911,
+          2063
+        ],
+        [
+          856,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "226",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2063
+        ],
+        [
+          911,
+          2063
+        ],
+        [
+          911,
+          2113
+        ],
+        [
+          856,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "227",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2113
+        ],
+        [
+          911,
+          2113
+        ],
+        [
+          911,
+          2163
+        ],
+        [
+          856,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "228",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2163
+        ],
+        [
+          911,
+          2163
+        ],
+        [
+          911,
+          2213
+        ],
+        [
+          856,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "229",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2213
+        ],
+        [
+          911,
+          2213
+        ],
+        [
+          911,
+          2263
+        ],
+        [
+          856,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "230",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2263
+        ],
+        [
+          911,
+          2263
+        ],
+        [
+          911,
+          2313
+        ],
+        [
+          856,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "231",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2313
+        ],
+        [
+          911,
+          2313
+        ],
+        [
+          911,
+          2363
+        ],
+        [
+          856,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "232",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2363
+        ],
+        [
+          911,
+          2363
+        ],
+        [
+          911,
+          2468
+        ],
+        [
+          856,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "233",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2363
+        ],
+        [
+          810,
+          2363
+        ],
+        [
+          810,
+          2468
+        ],
+        [
+          755,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "234",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2313
+        ],
+        [
+          810,
+          2313
+        ],
+        [
+          810,
+          2363
+        ],
+        [
+          755,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "235",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2263
+        ],
+        [
+          810,
+          2263
+        ],
+        [
+          810,
+          2313
+        ],
+        [
+          755,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "236",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2213
+        ],
+        [
+          810,
+          2213
+        ],
+        [
+          810,
+          2263
+        ],
+        [
+          755,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "237",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2163
+        ],
+        [
+          810,
+          2163
+        ],
+        [
+          810,
+          2213
+        ],
+        [
+          755,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "238",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2113
+        ],
+        [
+          810,
+          2113
+        ],
+        [
+          810,
+          2163
+        ],
+        [
+          755,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "239",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2063
+        ],
+        [
+          810,
+          2063
+        ],
+        [
+          810,
+          2113
+        ],
+        [
+          755,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "240",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          2013
+        ],
+        [
+          810,
+          2013
+        ],
+        [
+          810,
+          2063
+        ],
+        [
+          755,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "241",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          755,
+          1908
+        ],
+        [
+          810,
+          1908
+        ],
+        [
+          810,
+          2013
+        ],
+        [
+          755,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "242",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          1908
+        ],
+        [
+          755,
+          1908
+        ],
+        [
+          755,
+          2013
+        ],
+        [
+          700,
+          2013
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "243",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2013
+        ],
+        [
+          755,
+          2013
+        ],
+        [
+          755,
+          2063
+        ],
+        [
+          700,
+          2063
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "244",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2063
+        ],
+        [
+          755,
+          2063
+        ],
+        [
+          755,
+          2113
+        ],
+        [
+          700,
+          2113
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "245",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2113
+        ],
+        [
+          755,
+          2113
+        ],
+        [
+          755,
+          2163
+        ],
+        [
+          700,
+          2163
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "246",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2163
+        ],
+        [
+          755,
+          2163
+        ],
+        [
+          755,
+          2213
+        ],
+        [
+          700,
+          2213
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "247",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2213
+        ],
+        [
+          755,
+          2213
+        ],
+        [
+          755,
+          2263
+        ],
+        [
+          700,
+          2263
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "248",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2263
+        ],
+        [
+          755,
+          2263
+        ],
+        [
+          755,
+          2313
+        ],
+        [
+          700,
+          2313
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "249",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2313
+        ],
+        [
+          755,
+          2313
+        ],
+        [
+          755,
+          2363
+        ],
+        [
+          700,
+          2363
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "250",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2363
+        ],
+        [
+          755,
+          2363
+        ],
+        [
+          755,
+          2468
+        ],
+        [
+          700,
+          2468
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": false,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "251",
+      "area_sq_yards": 499,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          700,
+          2510
+        ],
+        [
+          810,
+          2510
+        ],
+        [
+          810,
+          2665
+        ],
+        [
+          765,
+          2640
+        ],
+        [
+          700,
+          2570
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "252",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2510
+        ],
+        [
+          910,
+          2510
+        ],
+        [
+          910,
+          2618
+        ],
+        [
+          856,
+          2618
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "253",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2618
+        ],
+        [
+          910,
+          2618
+        ],
+        [
+          910,
+          2668
+        ],
+        [
+          856,
+          2668
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "254",
+      "area_sq_yards": 281,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          856,
+          2668
+        ],
+        [
+          965,
+          2668
+        ],
+        [
+          965,
+          2718
+        ],
+        [
+          884,
+          2718
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "255",
+      "area_sq_yards": 306,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          884,
+          2718
+        ],
+        [
+          965,
+          2718
+        ],
+        [
+          965,
+          2790
+        ],
+        [
+          912,
+          2775
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "256",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          2618
+        ],
+        [
+          965,
+          2618
+        ],
+        [
+          965,
+          2668
+        ],
+        [
+          910,
+          2668
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "257",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          910,
+          2510
+        ],
+        [
+          965,
+          2510
+        ],
+        [
+          965,
+          2618
+        ],
+        [
+          910,
+          2618
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "258",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2510
+        ],
+        [
+          1065,
+          2510
+        ],
+        [
+          1065,
+          2620
+        ],
+        [
+          1010,
+          2620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "259",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2620
+        ],
+        [
+          1065,
+          2620
+        ],
+        [
+          1065,
+          2670
+        ],
+        [
+          1010,
+          2670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "260",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2670
+        ],
+        [
+          1065,
+          2670
+        ],
+        [
+          1065,
+          2720
+        ],
+        [
+          1010,
+          2720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "261",
+      "area_sq_yards": 278,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1010,
+          2720
+        ],
+        [
+          1065,
+          2720
+        ],
+        [
+          1065,
+          2830
+        ],
+        [
+          1010,
+          2815
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "262",
+      "area_sq_yards": 177,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2770
+        ],
+        [
+          1120,
+          2770
+        ],
+        [
+          1120,
+          2842
+        ],
+        [
+          1065,
+          2830
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "263",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2720
+        ],
+        [
+          1120,
+          2720
+        ],
+        [
+          1120,
+          2770
+        ],
+        [
+          1065,
+          2770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "264",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2670
+        ],
+        [
+          1120,
+          2670
+        ],
+        [
+          1120,
+          2720
+        ],
+        [
+          1065,
+          2720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "265",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2620
+        ],
+        [
+          1120,
+          2620
+        ],
+        [
+          1120,
+          2670
+        ],
+        [
+          1065,
+          2670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "266",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1065,
+          2510
+        ],
+        [
+          1120,
+          2510
+        ],
+        [
+          1120,
+          2620
+        ],
+        [
+          1065,
+          2620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "267",
+      "area_sq_yards": 293,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2510
+        ],
+        [
+          1220,
+          2510
+        ],
+        [
+          1220,
+          2620
+        ],
+        [
+          1165,
+          2620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "268",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2620
+        ],
+        [
+          1220,
+          2620
+        ],
+        [
+          1220,
+          2670
+        ],
+        [
+          1165,
+          2670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "269",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2670
+        ],
+        [
+          1220,
+          2670
+        ],
+        [
+          1220,
+          2720
+        ],
+        [
+          1165,
+          2720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "270",
+      "area_sq_yards": 147,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2720
+        ],
+        [
+          1220,
+          2720
+        ],
+        [
+          1220,
+          2770
+        ],
+        [
+          1165,
+          2770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "271",
+      "area_sq_yards": 243,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1165,
+          2770
+        ],
+        [
+          1220,
+          2770
+        ],
+        [
+          1220,
+          2866
+        ],
+        [
+          1165,
+          2866
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "272",
+      "area_sq_yards": 282,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2770
+        ],
+        [
+          1275,
+          2770
+        ],
+        [
+          1275,
+          2866
+        ],
+        [
+          1220,
+          2866
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "273",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2720
+        ],
+        [
+          1275,
+          2720
+        ],
+        [
+          1275,
+          2770
+        ],
+        [
+          1220,
+          2770
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "274",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2670
+        ],
+        [
+          1275,
+          2670
+        ],
+        [
+          1275,
+          2720
+        ],
+        [
+          1220,
+          2720
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "275",
+      "area_sq_yards": 147,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2620
+        ],
+        [
+          1275,
+          2620
+        ],
+        [
+          1275,
+          2670
+        ],
+        [
+          1220,
+          2670
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 33,
+      "west_ft": 33,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "276",
+      "area_sq_yards": 293,
+      "facing": "E",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1220,
+          2510
+        ],
+        [
+          1275,
+          2510
+        ],
+        [
+          1275,
+          2620
+        ],
+        [
+          1220,
+          2620
+        ]
+      ],
+      "north_ft": 40,
+      "south_ft": 40,
+      "east_ft": 66,
+      "west_ft": 66,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": true
+    },
+    {
+      "plot_number": "277",
+      "area_sq_yards": 309,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2510
+        ],
+        [
+          1374,
+          2510
+        ],
+        [
+          1374,
+          2620
+        ],
+        [
+          1320,
+          2620
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": true,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "278",
+      "area_sq_yards": 170,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2620
+        ],
+        [
+          1374,
+          2620
+        ],
+        [
+          1374,
+          2690
+        ],
+        [
+          1320,
+          2690
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    },
+    {
+      "plot_number": "279",
+      "area_sq_yards": 458,
+      "facing": "W",
+      "road_width_ft": 33,
+      "polygon_px": [
+        [
+          1320,
+          2690
+        ],
+        [
+          1374,
+          2690
+        ],
+        [
+          1374,
+          2890
+        ],
+        [
+          1320,
+          2890
+        ]
+      ],
+      "north_ft": null,
+      "south_ft": null,
+      "east_ft": null,
+      "west_ft": null,
+      "is_corner": false,
+      "mortgaged": true,
+      "dimensions_verified": false
+    }
+  ]
+}

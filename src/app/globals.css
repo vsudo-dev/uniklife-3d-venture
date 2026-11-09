@@ -1,0 +1,491 @@
+@import "tailwindcss";
+
+/* ===========================================================================
+   Theme system = BRAND palette (data-brand) × COLOUR MODE (data-mode).
+   12 brand palettes; modes: light, dark, night (deep, low-blue for night use).
+   Components only use the semantic tokens below.
+   =========================================================================== */
+
+/* ---- Brand palettes: primary + metallic accent ---------------------------- */
+:root,
+[data-brand="royal"] { --brand: #13308f; --brand-strong: #0b1f5c; --accent: #c9a227; --accent-strong: #a8841a; --accent-light: #f3dc8a; }
+[data-brand="midnight"] { --brand: #2f4ee0; --brand-strong: #0a1849; --accent: #d9b443; --accent-strong: #b8901f; --accent-light: #f3dc8a; }
+[data-brand="ivory"] { --brand: #1a3a9e; --brand-strong: #102766; --accent: #b8901f; --accent-strong: #94720f; --accent-light: #ead39a; }
+[data-brand="emerald"] { --brand: #0f6e4f; --brand-strong: #07412f; --accent: #c9a227; --accent-strong: #a8841a; --accent-light: #f0d98a; }
+[data-brand="ruby"] { --brand: #8f1d3a; --brand-strong: #5a0f22; --accent: #d4af37; --accent-strong: #ae8b1f; --accent-light: #f3dc8a; }
+[data-brand="sapphire"] { --brand: #0b5fa5; --brand-strong: #063a66; --accent: #e0b84f; --accent-strong: #b8922c; --accent-light: #f5dd9a; }
+[data-brand="onyx"] { --brand: #2a2a33; --brand-strong: #111116; --accent: #d4af37; --accent-strong: #ae8b1f; --accent-light: #f3dc8a; }
+[data-brand="pearl"] { --brand: #3b4a6b; --brand-strong: #232d44; --accent: #b9975b; --accent-strong: #967641; --accent-light: #e6d3ad; }
+[data-brand="saffron"] { --brand: #b45309; --brand-strong: #7c2d12; --accent: #7c2d12; --accent-strong: #5b200c; --accent-light: #fcd9a8; }
+[data-brand="teal"] { --brand: #0f766e; --brand-strong: #074c47; --accent: #d4a73c; --accent-strong: #ae8521; --accent-light: #f1d68e; }
+[data-brand="amethyst"] { --brand: #5b21b6; --brand-strong: #3b1278; --accent: #e0b84f; --accent-strong: #b8922c; --accent-light: #f5dd9a; }
+[data-brand="copper"] { --brand: #7a3e1d; --brand-strong: #4d230e; --accent: #c08a3e; --accent-strong: #9a6a26; --accent-light: #ecc994; }
+
+/* ---- Light mode ---------------------------------------------------------- */
+:root,
+[data-mode="light"] {
+  --bg: color-mix(in srgb, var(--brand) 4%, #f5f6fa);
+  --surface: #ffffff;
+  --surface-2: color-mix(in srgb, var(--brand) 6%, #f1f3f8);
+  --border: color-mix(in srgb, var(--brand) 12%, #e2e6ee);
+  --text: #0d1630;
+  --muted: #5b6585;
+  --primary: var(--brand);
+  --primary-strong: var(--brand-strong);
+  --primary-contrast: #ffffff;
+  --gold: var(--accent);
+  --gold-strong: var(--accent-strong);
+  --gold-soft: color-mix(in srgb, var(--accent) 18%, #ffffff);
+  --nav-bg: linear-gradient(180deg, var(--brand-strong) 0%, color-mix(in srgb, var(--brand-strong) 80%, #000) 100%);
+  --nav-text: #e7ecff;
+  --nav-muted: color-mix(in srgb, #ffffff 60%, var(--brand));
+  --nav-active: color-mix(in srgb, var(--accent) 18%, transparent);
+  --ring: color-mix(in srgb, var(--accent) 55%, transparent);
+  --shadow: 0 1px 2px rgba(11, 20, 50, 0.06), 0 8px 24px rgba(11, 20, 50, 0.06);
+  --glow: 0 0 0 1px color-mix(in srgb, var(--accent) 25%, transparent), 0 10px 30px color-mix(in srgb, var(--accent) 12%, transparent);
+  --hero-a: var(--brand-strong);
+  --hero-b: color-mix(in srgb, var(--brand-strong) 70%, #000);
+  --success: #16a34a;
+  --warning: #d97706;
+  --danger: #dc2626;
+  --info: #2563eb;
+  color-scheme: light;
+}
+/* Ivory keeps its warm heritage surfaces in light mode. */
+[data-brand="ivory"][data-mode="light"] { --bg: #faf7f0; --surface: #fffdf8; --surface-2: #f4efe2; --border: #e7dfcb; --nav-bg: linear-gradient(180deg, #fffdf8, #f4efe2); --nav-text: #1b1a2e; --nav-muted: #6b6679; }
+[data-brand="pearl"][data-mode="light"] { --bg: #f7f7f5; --surface-2: #f0efec; --border: #e4e2dc; }
+
+/* ---- Dark mode ----------------------------------------------------------- */
+[data-mode="dark"] {
+  --bg: color-mix(in srgb, var(--brand) 12%, #070a14);
+  --surface: color-mix(in srgb, var(--brand) 14%, #0c1120);
+  --surface-2: color-mix(in srgb, var(--brand) 18%, #111829);
+  --border: color-mix(in srgb, var(--brand) 28%, #1d2640);
+  --text: #e8ecfb;
+  --muted: #9aa5c8;
+  --primary: color-mix(in srgb, var(--brand) 55%, #ffffff);
+  --primary-strong: color-mix(in srgb, var(--brand) 70%, #ffffff);
+  --primary-contrast: #0b1020;
+  --gold: var(--accent-light);
+  --gold-strong: color-mix(in srgb, var(--accent-light) 85%, #ffffff);
+  --gold-soft: color-mix(in srgb, var(--accent) 16%, transparent);
+  --nav-bg: linear-gradient(180deg, color-mix(in srgb, var(--brand) 18%, #070a14), color-mix(in srgb, var(--brand) 8%, #04060c));
+  --nav-text: #dfe6ff;
+  --nav-muted: #8a95bb;
+  --nav-active: color-mix(in srgb, var(--accent) 16%, transparent);
+  --ring: color-mix(in srgb, var(--accent-light) 55%, transparent);
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 10px 30px rgba(0, 0, 0, 0.35);
+  --glow: 0 0 0 1px color-mix(in srgb, var(--accent) 30%, transparent), 0 10px 40px color-mix(in srgb, var(--brand) 25%, transparent);
+  --hero-a: color-mix(in srgb, var(--brand) 40%, #050814);
+  --hero-b: #03050c;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #f87171;
+  --info: #60a5fa;
+  color-scheme: dark;
+}
+
+/* ---- Night mode: near-black, warm low-blue text, subdued accents ---------- */
+[data-mode="night"] {
+  --bg: #060504;
+  --surface: #0e0c0a;
+  --surface-2: #15120f;
+  --border: #2a241d;
+  --text: #efe6d6;
+  --muted: #a39a8a;
+  --primary: color-mix(in srgb, var(--accent-light) 70%, #ffb37a);
+  --primary-strong: color-mix(in srgb, var(--accent-light) 85%, #ffb37a);
+  --primary-contrast: #120d06;
+  --gold: color-mix(in srgb, var(--accent) 80%, #8a6a2a);
+  --gold-strong: var(--accent-light);
+  --gold-soft: color-mix(in srgb, var(--accent) 12%, transparent);
+  --nav-bg: linear-gradient(180deg, #0b0907, #050403);
+  --nav-text: #e9dfcd;
+  --nav-muted: #8f8676;
+  --nav-active: color-mix(in srgb, var(--accent) 12%, transparent);
+  --ring: color-mix(in srgb, var(--accent) 45%, transparent);
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  --glow: 0 0 0 1px color-mix(in srgb, var(--accent) 22%, transparent);
+  --hero-a: #120e09;
+  --hero-b: #030302;
+  --success: #4ade80;
+  --warning: #fbbf24;
+  --danger: #f87171;
+  --info: #93c5fd;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-primary: var(--primary);
+  --color-primary-strong: var(--primary-strong);
+  --color-primary-contrast: var(--primary-contrast);
+  --color-gold: var(--gold);
+  --color-gold-strong: var(--gold-strong);
+  --color-gold-soft: var(--gold-soft);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-info: var(--info);
+  --font-sans: var(--font-urbanist), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* Plot status palette (fixed — meaning must not change between tenants or modes). */
+  --color-st-available: #16a34a;
+  --color-st-held: #eab308;
+  --color-st-reserved: #f97316;
+  --color-st-booked: #2563eb;
+  --color-st-sold: #dc2626;
+  --color-st-blocked: #6b7280;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  box-shadow: var(--shadow);
+}
+
+.gold-text {
+  background: linear-gradient(135deg, var(--accent-light) 0%, var(--accent) 45%, var(--accent-strong) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.gold-line {
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+.premium-hero {
+  background:
+    radial-gradient(1200px 500px at 85% -10%, color-mix(in srgb, var(--accent) 24%, transparent), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, color-mix(in srgb, var(--brand) 55%, transparent), transparent 60%),
+    linear-gradient(140deg, var(--hero-a) 0%, var(--hero-b) 100%);
+}
+
+.nav-surface {
+  background: var(--nav-bg);
+  color: var(--nav-text);
+}
+
+.input {
+  width: 100%;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  border-radius: 0.65rem;
+  padding: 0.55rem 0.8rem;
+  font-size: 0.925rem;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.input:focus {
+  outline: none;
+  border-color: var(--gold);
+  box-shadow: 0 0 0 3px var(--ring);
+}
+.input:disabled {
+  opacity: 0.6;
+}
+
+.label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 0.3rem;
+}
+
+.table {
+  width: 100%;
+  font-size: 0.875rem;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+.table th {
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface-2);
+  white-space: nowrap;
+}
+.table td {
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Respect reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* iOS safe areas for the installed PWA. */
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.safe-top {
+  padding-top: env(safe-area-inset-top);
+}
+
+/* Phones: denser tables and finger-sized checkboxes. */
+@media (max-width: 639px) {
+  .table {
+    font-size: 0.8rem;
+  }
+  .table th {
+    padding: 0.45rem 0.55rem;
+    font-size: 0.65rem;
+  }
+  .table td {
+    padding: 0.5rem 0.55rem;
+  }
+  .card {
+    border-radius: 0.85rem;
+  }
+}
+input[type="checkbox"],
+input[type="radio"] {
+  width: 1.15rem;
+  height: 1.15rem;
+  accent-color: var(--gold);
+}
+
+/* Prevent grid "blowout": grid items may shrink below their min-content width
+   (long codes, non-wrapping tab rows) instead of widening the page on phones. */
+.grid > * {
+  min-width: 0;
+}
+
+/* ===========================================================================
+   HOLOGRAM DESIGN LAYER
+   Moving gradients + 3D depth for buttons, cards and tiles. GPU-friendly
+   (background-position / transform only) and fully disabled for reduced motion.
+   =========================================================================== */
+:root {
+  /* Hologram accents shared by every brand: cyan, violet and the brand metal. */
+  --holo-cyan: #38e1ff;
+  --holo-violet: #8b5cf6;
+  --holo-gradient: linear-gradient(115deg, var(--brand) 0%, var(--holo-violet) 28%, var(--holo-cyan) 52%, var(--accent) 76%, var(--brand) 100%);
+  --metal-gradient: linear-gradient(115deg, var(--accent-light) 0%, var(--accent) 30%, #fff3c4 50%, var(--accent) 70%, var(--accent-strong) 100%);
+}
+[data-mode="night"] {
+  --holo-cyan: #f5b971;
+  --holo-violet: #b45309;
+}
+
+@property --holo-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes holo-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+@keyframes holo-spin {
+  to { --holo-angle: 360deg; }
+}
+@keyframes holo-sheen {
+  0% { transform: translateX(-120%) skewX(-18deg); }
+  60%, 100% { transform: translateX(220%) skewX(-18deg); }
+}
+
+/* --- Buttons ------------------------------------------------------------- */
+.btn-holo {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background-size: 250% 250% !important;
+  animation: holo-shift 7s ease-in-out infinite;
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.35) inset,
+    0 -2px 0 rgba(0, 0, 0, 0.18) inset,
+    0 6px 16px -6px color-mix(in srgb, var(--brand) 55%, transparent),
+    0 2px 4px rgba(0, 0, 0, 0.12);
+  transition: transform 0.15s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+.btn-holo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  width: 40%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.45), transparent);
+  animation: holo-sheen 4.5s ease-in-out infinite;
+  pointer-events: none;
+}
+.btn-holo:hover:not(:disabled) {
+  transform: translateY(-1px);
+  filter: saturate(1.15) brightness(1.04);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.4) inset,
+    0 -2px 0 rgba(0, 0, 0, 0.18) inset,
+    0 10px 24px -8px color-mix(in srgb, var(--holo-cyan) 45%, transparent),
+    0 4px 10px rgba(0, 0, 0, 0.14);
+}
+.btn-holo:active:not(:disabled) {
+  transform: translateY(1px) scale(0.99);
+}
+.btn-primary-holo {
+  background-image: linear-gradient(115deg, var(--brand-strong), var(--brand), var(--holo-violet), var(--brand), var(--brand-strong));
+  color: #fff;
+}
+.btn-gold-holo {
+  background-image: var(--metal-gradient);
+  color: #1b1400;
+}
+.btn-outline-holo {
+  background:
+    linear-gradient(var(--surface), var(--surface)) padding-box,
+    var(--holo-gradient) border-box;
+  background-size: 100% 100%, 250% 250% !important;
+  border: 1.5px solid transparent !important;
+  color: var(--text);
+}
+
+/* --- Cards: holographic animated border + soft 3D depth ------------------ */
+.card {
+  position: relative;
+  background:
+    linear-gradient(var(--surface), var(--surface)) padding-box,
+    linear-gradient(135deg,
+      color-mix(in srgb, var(--holo-cyan) 35%, var(--border)),
+      var(--border) 35%,
+      var(--border) 65%,
+      color-mix(in srgb, var(--accent) 45%, var(--border))) border-box;
+  border: 1px solid transparent;
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.5) inset,
+    var(--shadow);
+}
+[data-mode="dark"] .card,
+[data-mode="night"] .card {
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.05) inset, var(--shadow);
+}
+
+/* Interactive tiles & cards: rotating hologram border, sheen and 3D lift. */
+.card-holo {
+  background:
+    linear-gradient(var(--surface), var(--surface)) padding-box,
+    conic-gradient(from var(--holo-angle), var(--accent), var(--holo-cyan), var(--holo-violet), var(--brand), var(--accent)) border-box;
+  border: 1.5px solid transparent;
+  animation: holo-spin 9s linear infinite;
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  transform-style: preserve-3d;
+}
+.card-holo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(120deg, transparent 30%, color-mix(in srgb, var(--holo-cyan) 14%, transparent) 45%, color-mix(in srgb, var(--holo-violet) 12%, transparent) 55%, transparent 70%);
+  background-size: 250% 250%;
+  animation: holo-shift 8s ease-in-out infinite;
+  pointer-events: none;
+}
+@media (hover: hover) {
+  .card-holo:hover {
+    transform: perspective(900px) translateY(-3px) rotateX(2deg);
+    box-shadow:
+      0 18px 40px -18px color-mix(in srgb, var(--holo-cyan) 45%, transparent),
+      0 10px 20px -12px color-mix(in srgb, var(--holo-violet) 40%, transparent),
+      var(--shadow);
+  }
+}
+
+/* Headline text with a moving metallic gradient. */
+.holo-text {
+  background-image: var(--holo-gradient);
+  background-size: 250% 250%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: holo-shift 9s ease-in-out infinite;
+}
+
+/* Ambient aurora behind the app (one fixed layer, very cheap). */
+body::before {
+  content: "";
+  position: fixed;
+  inset: -20%;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(40% 35% at 15% 10%, color-mix(in srgb, var(--holo-cyan) 10%, transparent), transparent 70%),
+    radial-gradient(35% 30% at 85% 15%, color-mix(in srgb, var(--holo-violet) 9%, transparent), transparent 70%),
+    radial-gradient(45% 35% at 60% 95%, color-mix(in srgb, var(--accent) 10%, transparent), transparent 70%);
+  animation: holo-drift 28s ease-in-out infinite alternate;
+}
+@keyframes holo-drift {
+  from { transform: translate3d(0, 0, 0) scale(1); }
+  to { transform: translate3d(3%, -2%, 0) scale(1.06); }
+}
+body {
+  isolation: isolate;
+}
+
+/* Performance: rotating conic borders repaint every frame. Keep them slow, and on
+   touch devices (phones/tablets) show a static hologram border instead. */
+.card-holo {
+  animation-duration: 14s;
+}
+@media (hover: none) {
+  .card-holo,
+  .card-holo::after {
+    animation: none;
+  }
+}
+@media (hover: hover) {
+  .card-holo:not(:hover)::after {
+    animation-play-state: paused;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .btn-holo, .btn-holo::after, .card-holo, .card-holo::after, .holo-text, body::before {
+    animation: none !important;
+  }
+}
+
+/* Smooth theme switching without animating every element. */
+html.theme-switching * {
+  transition: background-color 0.25s ease, border-color 0.25s ease, color 0.25s ease !important;
+}

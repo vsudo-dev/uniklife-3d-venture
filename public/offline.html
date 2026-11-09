@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Offline</title>
+  <!-- Tenant-neutral on purpose: cached by the service worker and shown for any tenant on this origin. -->
+  <style>
+    :root { color-scheme: light dark; --bg:#f3f5fb; --text:#0d1630; --muted:#5b6585; --gold:#c9a227; --primary:#13308f; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#060b1d; --text:#e8ecfb; --muted:#94a0c7; } }
+    html,body { margin:0; height:100%; background:var(--bg); color:var(--text); font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+    main { min-height:100%; display:grid; place-items:center; padding:24px; box-sizing:border-box; }
+    .box { max-width:360px; text-align:center; }
+    .ring { width:48px; height:48px; margin:0 auto 16px; border-radius:50%; border:2px dashed var(--gold); }
+    h1 { font-size:20px; margin:0; }
+    p { font-size:14px; color:var(--muted); line-height:1.5; }
+    a { display:inline-block; margin-top:12px; padding:9px 16px; border-radius:12px; background:var(--primary); color:#fff; text-decoration:none; font-weight:600; font-size:14px; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="box">
+      <div class="ring" aria-hidden="true"></div>
+      <h1>You're offline</h1>
+      <p>This page needs a connection. Plot availability, bookings and payments are always checked live, so please reconnect and try again.</p>
+      <a href="/">Retry</a>
+    </div>
+  </main>
+</body>
+</html>
